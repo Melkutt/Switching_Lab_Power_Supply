@@ -1,1 +1,1 @@
-# Switching_Lab_Power_Supplu
+# Switching_Lab_Power_Supply
