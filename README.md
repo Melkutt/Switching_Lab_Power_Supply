@@ -11,6 +11,6 @@ I have not come around to test it deaply yet, i will post more picture and loggi
 
 
 The designe is almoste a rip-of from LT Journal's paper, but with a litte twist.
-One bug is Q301, wrong footprint, doh!
+*One bug is Q301, wrong footprint, doh!
 
 [LTJournal-BenchSupply-Szolusha.pdf](https://github.com/Melkutt/Switching_Lab_Power_Supply/files/12388137/LTJournal-BenchSupply-Szolusha.pdf)
